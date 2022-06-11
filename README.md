@@ -1,2 +1,2 @@
 # readme
-Basic info
+git basic info.
